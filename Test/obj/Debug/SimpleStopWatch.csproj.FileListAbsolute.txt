@@ -1,0 +1,3 @@
+C:\Users\310280347\Documents\visual studio 2015\Projects\SimpleStopWatch\Test\bin\Debug\Test.exe.config
+C:\Users\310280347\Documents\visual studio 2015\Projects\SimpleStopWatch\Test\obj\Debug\Test.exe
+C:\Users\310280347\Documents\visual studio 2015\Projects\SimpleStopWatch\Test\obj\Debug\Test.pdb
